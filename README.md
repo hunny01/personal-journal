@@ -1,8 +1,6 @@
-This File Is A Guide On How To User Your Personal Journal Application
-
-Personal Journal Application Is A Simple And Easy Journal Entry Notebook. This Application Runs On Terminal And Is Capable Of:
+Personal Journal Application: This Is A Simple And Easy Journal Entry Notebook. This Application Runs On Terminal And Is Capable Of:
 * User Management
-* Personalized Journal Entry (Upto 50 Entries)
+* Personalized Journal Entry (Stores Upto 50 Entries With TimeStamp)
 
 -------------------
 1. User Management:
