@@ -1,12 +1,4 @@
-'''
-***********************************************************************************************************
-File Name   :   ReadMe.txt
-Description :   This File Is A Guide On How To User Your Personal Journal Application
------------------------------------------------------------------------------------------------------------
-Date							Action						 	Author
-28th-JUL-2019			Created							Hunny Aggarwal
-***********************************************************************************************************
-'''
+This File Is A Guide On How To User Your Personal Journal Application
 
 Personal Journal Application Is A Simple And Easy Journal Entry Notebook. This Application Runs On Terminal And Is Capable Of:
 * User Management
